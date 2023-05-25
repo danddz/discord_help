@@ -7,8 +7,8 @@ from discord.ui import Button, View
 import files_roles.roles_buttons as roles_buttons
 from files_roles.Buttons import RolesButton
 
-token_test = 'OTc4NDAyMTU2MTc4NzE0NzA1.GB7HAw.84DvES64T72_sEsnGl4eytYbNpY0xVAUBIYFZM'
-token_main = 'OTc5MDc1NTU0OTMyMzEwMTc2.GUGZAw.q4_jsAIKlhpkJqszwZNYuTA4QAQ7vux8y1Ph9E'
+token_test = ''
+token_main = ''
 intents = discord.Intents.default()
 intents.message_content = True
 
